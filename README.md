@@ -18,7 +18,7 @@ wtfpl litepresence2024
 
 ### Header Inclusion and Namespace
 
-  Second Version: Adds several new headers (<memory>, <vector>, <stdexcept>, <iostream>, <mutex>),
+  Second Version: Adds several new headers `(<memory>, <vector>, <stdexcept>, <iostream>, <mutex>)`,
   which indicates a shift toward using C++ features like smart pointers, exceptions, and
   mutexes for thread safety.
 
